@@ -50,13 +50,6 @@ Customizable colors:
 
 ```
 
-## Installation
-
-**MARKCircularSlider** is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-`pod 'MARKCircularSlider'`
-
 ## Author
 
 Vadym Markov, impressionwave@gmail.com
