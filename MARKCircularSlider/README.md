@@ -9,7 +9,7 @@ A custom reusable circular slider control. Values range is between `minimumValue
 Please check Demo project for a basic example on how to use MARKCircularSlider.
 
 ### Demo
-![Alt text](https://github.com/ThisIszas/MARKCircularSlider/blob/main/MARKCircularSlider/Screen%20Recording%202020-11-24%20at%2010.gif "Demo")
+![Alt text](https://github.com/ThisIszas/MARKCircularSlider/blob/main/MARKCircularSlider/Screen%20Recording%202020-11-24%20at%2010.gif){:height="200px" width="100px"}
 
 ### Available control properties
 - `value` - the current value of the slider
