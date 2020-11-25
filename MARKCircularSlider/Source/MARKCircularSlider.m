@@ -187,7 +187,7 @@
 }
 
 - (CGPoint)getIndicateLocation:(CGFloat)degree{
-    /// 图中实际是以竖轴为X轴, 横轴为Y轴, 所以需要减去90度
+    /// 图中实际Y轴是向下为正, 所以需要减去90度
     CGFloat yLocation = self.radius * sin([self radiansFromDegrees: degree - 90]) + self.centerPoint.y;
     CGFloat xLocation = self.radius * cos([self radiansFromDegrees: degree - 90]) + self.centerPoint.x;
 
